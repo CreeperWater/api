@@ -1,11 +1,34 @@
 {
-"av10492":
-    {
+    "av23":"https://creeperwater.github.io/api/10492/vid/archive/00000023.mp4",
+    "av106":"https://creeperwater.github.io/api/10492/vid/archive/00000106.mp4",
+    "av107":"https://creeperwater.github.io/api/10492/vid/archive/00000107.mp4",
+    "av508":"https://creeperwater.github.io/api/10492/vid/archive/00000508.mp4",
+    "av10429":"https://creeperwater.github.io/api/10492/vid/archive/00010429.mp4",
+    "av10492":
+{
     "P1 起源":"https://creeperwater.github.io/api/10492/vid/10492/01.mp4",
     "P2 久本薯条":
-        {
-        "第一集":"https://creeperwater.github.io/api/10492/vid/10492/02.mp4",
-        "第二集":"https://creeperwater.github.io/api/10492/vid/10492/02-1.mp4"
-        }
-    }
+    {
+    "第一集":"https://creeperwater.github.io/api/10492/vid/10492/02.mp4",
+    "第二集":"https://creeperwater.github.io/api/10492/vid/10492/02-1.mp4"
+    },
+    "P3 全员猎奇":
+    {
+    "第一集":"https://creeperwater.github.io/api/10492/vid/10492/03.mp4",
+    "第二集":"https://creeperwater.github.io/api/10492/vid/10492/03-1.mp4"
+    },
+    "P4 哦做哦做":"https://creeperwater.github.io/api/10492/vid/10492/04.mp4",
+    "P5 久本杂交":
+    {
+    "第一集":"https://creeperwater.github.io/api/10492/vid/10492/05.mp4",
+    "第二集":"https://creeperwater.github.io/api/10492/vid/10492/05-1.mp4"
+    },
+    "P6 益虫观察":
+    {
+    "第一集":"https://creeperwater.github.io/api/10492/vid/10492/06.mp4",
+    "第二集":"https://creeperwater.github.io/api/10492/vid/10492/06-1.mp4"
+    },
+    "P7 喷血":"https://creeperwater.github.io/api/10492/vid/10492/07.mp4",
+    "P8 超级变变变":"https://creeperwater.github.io/api/10492/vid/10492/08.mp4"
+}
 }
