@@ -1,4 +1,4 @@
-# 中国历年CPI指数整理(2000-2019)
+# 中国历年CPI指数整理(1995-2019)
 
 注：CPI指数即清廉指数（Corruption Perceptions Index）
 
@@ -67,11 +67,13 @@
 - [2016](data/2016.xlsx)
 - [2017](data/2017.xlsx)
 - [2018](data/2018.xlsx)
+  - [视频](https://www.bilibili.com/video/BV1Ny4y1q7d3/)
 - [2019](data/2019.xlsx)
+  - [视频](https://www.bilibili.com/video/BV1ya4y1778k/)
 
 ------
 
-更新时间：2020年11月15日
+更新时间：2020年11月20日
 
 > 源数据由[透明国际](https://www.transparency.org/)采集制表，该文档由苦力怕水收集整理。
 > 数据并不能保持绝对中立与客观，仅供参考。
