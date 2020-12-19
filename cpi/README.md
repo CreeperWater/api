@@ -1,6 +1,6 @@
-# 中国历年CPI指数整理(1995-2019)
+# 中国历年CPI整理(1995-2019)
 
-注：CPI指数即清廉指数（Corruption Perceptions Index）
+注：CPI即清廉指数（Corruption Perceptions Index）
 
 
 | 年份 |    得分     |    排名     |  国家总数   |
