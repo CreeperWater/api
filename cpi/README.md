@@ -1,6 +1,8 @@
-# 中国历年CPI整理(1995-2020)
+# 中国历年CPI整理
 
 > CPI即清廉指数（Corruption Perceptions Index）
+>
+> 时间跨度：1995-2020
 >
 > 台湾省、香港特别行政区 单独计算
 
@@ -39,9 +41,9 @@
 
 #### 相关链接
 
-- [透明国际](https://www.transparency.org/en/cpi)
-- [百度百科](https://baike.baidu.com/item/%E5%85%A8%E7%90%83%E6%B8%85%E5%BB%89%E6%8C%87%E6%95%B0)
-- [维基百科](https://en.m.wikipedia.org/wiki/Corruption_Perceptions_Index)
+- [透明国际：CPI](https://www.transparency.org/en/cpi)
+- [百度百科：全球清廉指数](https://baike.baidu.com/item/%E5%85%A8%E7%90%83%E6%B8%85%E5%BB%89%E6%8C%87%E6%95%B0)
+- [维基百科：Corruption_Perceptions_Index](https://en.m.wikipedia.org/wiki/Corruption_Perceptions_Index)
 - [人民网：清廉指数是怎样算出来的](http://fanfu.people.com.cn/n/2013/0205/c141423-20431132.html)
 
 ------
@@ -77,11 +79,13 @@
 - [2019](data/2019.xlsx)
   - [视频](https://www.bilibili.com/video/BV1ya4y1778k/)
 - [2020](data/2020.xlsx)
+  - [视频](https://www.bilibili.com/video/BV1KN411o7yC)
 
 ------
 
 更新时间：2021年1月29日
 
-> 源数据由[透明国际](https://www.transparency.org/)采集制表，该文档由苦力怕水收集整理。
+> 源数据由[透明国际](https://www.transparency.org/)采集制表，该文档由[苦力怕水](https://qb.rthe.xyz/)收集整理。
+>
 > 数据并不能保持绝对中立与客观，仅供参考。
 
