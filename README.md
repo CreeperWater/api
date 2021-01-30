@@ -1,6 +1,7 @@
 # 导航
 
-- [中国历年CPI指数整理](cpi)
+- [中国历年CPI整理](cpi)
+- [Python云端数据库](python)
 
-> 如果有技术上或内容上的问题请[发邮件](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=creeperwater@qq.com "creeperwater@qq.com")联系我
+> 如果有技术上或内容上的问题请[发邮件](mailto:creeperwater@163.com)联系我
 >
