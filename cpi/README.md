@@ -88,4 +88,8 @@
 > 源数据由[透明国际](https://www.transparency.org/)采集制表，该文档由[苦力怕水](https://qb.rthe.xyz/)收集整理。
 >
 > 数据并不能保持绝对中立与客观，仅供参考。
+>
+> 为了方便编辑，网站使用markdown格式，请谅解。
+>
+> [新网站](https://creeperwater.github.io/cpi/)正在建设，欢迎体验
 
